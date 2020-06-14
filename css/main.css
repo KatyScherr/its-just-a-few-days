@@ -1,0 +1,65 @@
+/*****GRID*****/
+.full-width {
+	width: 100%;
+	margin: 0 auto;
+	overflow: auto;
+}
+
+.half-width {
+	width: 50%;
+	float: left;
+}
+
+.third-width {
+	width: 400px;
+	float: left; 
+}
+
+/***** HEADER *****/
+
+.heart-rock-img {
+	height: 300px;
+	display: inline;
+}
+
+header h1 {
+	font-family: 'Rock Salt', cursive;
+	font-size: 54px;
+	text-transform: capitalize;
+	color: #3492ad;
+	text-align: left;
+	padding-left: 50px;
+}
+
+header h2 {
+	font-family: 'Open Sans Condensed';
+	font-size: 32px;
+	text-align: center;
+	padding-left: 450px;
+	font-weight: 100;
+	letter-spacing: 1px;
+	line-height: 30px;
+	color: gray;
+}
+
+
+body p {
+	font-family: 'Open Sans Condensed';
+	font-size: 20px;
+}
+
+#poem .third-width {
+	padding: 50px;
+	background-color: #3492ad;
+	color: white;
+	border: 6px solid gray;
+	margin-left: 50px;
+}
+
+#poem h2 {
+	text-transform: capitalize;
+	font-size: 32px;
+}
+
+font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'Wire One', sans-serif;
